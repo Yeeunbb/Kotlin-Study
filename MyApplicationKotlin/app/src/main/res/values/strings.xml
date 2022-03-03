@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application Kotlin</string>
+    <string name="button1_text">나는 버튼</string>
+    <string name="hello">HELLO \nYEEUN WORLD!</string>
+
+
+</resources>
